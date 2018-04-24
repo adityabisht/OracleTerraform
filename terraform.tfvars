@@ -1,0 +1,6 @@
+tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaakc6rratztnhdmgzjtletd5jztyeqasknytqb2nqtur536gg2fbuq"
+user_ocid="ocid1.user.oc1..aaaaaaaa2vinxo3m43ah6odbjyo65mjx4wiwvk7rfeg6htxwhrbdxuaajxua"
+fingerprint="35:35:d0:9a:37:85:93:0a:b0:00:eb:8c:c5:d4:ae:49"
+private_key_path="/home/adityabisht/.ssh/bisht.pub"
+compartment_ocid="ocid1.tenancy.oc1..aaaaaaaakc6rratztnhdmgzjtletd5jztyeqasknytqb2nqtur536gg2fbuq"
+region="us-ashburn-1"
